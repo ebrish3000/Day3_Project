@@ -6,5 +6,6 @@ public class Day3_PracticeTest {
         // another change
         // this green color is a visual indication to see the change
         // line 1
+        //  line 2
     }
 }
